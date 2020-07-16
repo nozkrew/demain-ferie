@@ -1,24 +1,21 @@
-# ferie
+# Demain c'est férié ?
 
-## Project setup
+Site qui indique si demain sera férié ou non
+
+Développé avec VueJS
+
+Utilisation de l'API de l'état : https://calendrier.api.gouv.fr/jours-feries/metropole.json
+
+### Initialisation du projet
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compilation et rechargement à chaud pour le développement
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+![](https://github.com/nozkrew/demain-ferie/blob/master/README/ferie-non.PN
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://github.com/nozkrew/demain-ferie/blob/master/README/ferie-oui.PN
