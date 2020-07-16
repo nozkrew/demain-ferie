@@ -6,7 +6,7 @@
     <div v-else>
       <h3>Demain c'est férié ?</h3>
       <h1>{{isFerie ? "Oui" :  "Non"}}<small>{{isFerie ? "😁" :  "😕"}}</small></h1>
-      <p>{{ demain.format("DD/MM/YYYY") }}</p>
+      <p>Nous serons le <b>{{ demain.format("DD/MM/YYYY") }}</b></p>
     </div>
     
   </div>
