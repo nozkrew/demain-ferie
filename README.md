@@ -16,6 +16,6 @@ yarn install
 yarn serve
 ```
 
-![](https://github.com/nozkrew/demain-ferie/blob/master/README/ferie-non.PN
+![](https://github.com/nozkrew/demain-ferie/blob/master/README/ferie-non.PNG)
 
-![](https://github.com/nozkrew/demain-ferie/blob/master/README/ferie-oui.PN
+![](https://github.com/nozkrew/demain-ferie/blob/master/README/ferie-oui.PNG)
