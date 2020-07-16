@@ -2,6 +2,8 @@
 
 Site qui indique si demain sera férié ou non
 
+Pour tester : https://nozkrew.github.io/demain-ferie/
+
 Développé avec VueJS
 
 Utilisation de l'API de l'état : https://calendrier.api.gouv.fr/jours-feries/metropole.json
